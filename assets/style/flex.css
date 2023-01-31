@@ -81,7 +81,7 @@
     align-self: end;
 }
 
-@media(min-width: 720px)
+@media(min-width: 400px)
 {
     /* Cabeçalho */
     .menu
